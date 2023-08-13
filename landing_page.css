@@ -1,0 +1,74 @@
+.r1{
+	background-color: lightpink;
+}
+i{
+	font-size: 25px;
+	padding: 10px;
+}
+.p1{
+	font-size: 16px;
+	padding: 10px;
+}
+.r2{
+	background-color: skyblue;
+}
+.p2{
+	font-size: 16px;
+	font-style: italic;
+	color: darkred;
+	align-content: center;
+}
+.main{
+	background: url('images//background3.jpg');
+	background-repeat: no-repeat;
+	height:80 %;
+	width: 100%;
+	background-size: cover;
+}
+.p3{
+	font-style: italic;
+	text-align: center;
+	padding-top: 100px;
+	color: hotpink;
+}
+.p4{
+	font-style: italic;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 150px;
+	color: hotpink;
+}
+.r3{
+	background-color: pink;
+}
+.p5{
+	color: royalblue;
+	text-align: center;
+	font-style: italic;
+}
+.p6{
+	text-align: center;
+}
+.p7{
+	color: darkred;
+	background-color: honeydew;
+	font-size: 24px
+}
+.p8{
+	background-color: honeydew;
+}
+.pic{
+	height: 300px;
+	width: 30%;
+}
+.r5{
+	background-color: papayawhip;
+}
+.p0{
+	color: darkred;
+	text-align: right;
+	font-size: 20px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	background-color: papayawhip;
+}
