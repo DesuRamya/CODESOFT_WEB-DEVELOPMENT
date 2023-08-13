@@ -1,0 +1,173 @@
+.main{
+	background: url('images//background3.jpg');
+	background-repeat: no-repeat;
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+}
+.div1{
+	font-family: cursive;
+	font-size:5vh;
+	color: hotpink;
+}
+a:visited{
+		color: hotpink;
+}
+a:hover{
+	color: blue;
+}
+a:active{
+	color: green;
+}
+.text{
+	font-family:serif;
+	color:darkgoldenrod;
+}
+.text1{
+	font-family:georgia;
+	color:darkblue;
+}
+.text2{
+	font-family: cursive;
+	color: purple;
+}
+.am2{
+	float: left;
+	height: 350px;
+	width: 65%;
+	font-size:20px;
+}
+.pno{
+	float: left;
+	font-size: 14 px;
+}
+.email{
+	float: right;
+	font-size: 14 px;
+}
+.img{
+	float: right;
+	height: 350px;
+	width: 35%;
+}
+#Education{
+	color: darkred;
+	font-size: 20 px;
+}
+#aboutme1{
+	color: darkred;
+	font-size: 20 px;
+}
+.table{
+	height:500 px ;
+	width: 100%;
+	text-align: center;
+}
+.body{
+	width:100%;
+	height:100vh;
+	dispaly:flex;
+    align-items: center;
+    justify-content: center;
+}
+#skills{
+	color: darkred;
+	text-align: center;
+}
+.skill{
+	width:600px;
+	margin:60px auto;
+	color:deeppink;
+	padding:20px;
+}
+.skill h3{
+	font-weight: 400;
+	letter-spacing: 1px;
+	margin-top: 40px;
+	margin-bottom: 5px;
+	color:deeppink;
+	font-size: 16px;
+}
+.skil{
+	background: #DDFFBB;
+	width:600px;
+	height:10px;
+	border-radius:5px;
+}
+.skil div{
+	height:10px;
+	border-radius:5px;
+	width:0%;	
+}
+.skil div span{
+	height:40px;
+	width: 40px;
+	border-radius: 50%;
+	background:skyblue;
+	float:right;
+	margin-top: -15px;
+	margin-right:-20px;
+	color:deeppink;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
+.c{
+	background: #C04A82;
+	animation:c 1s linear forwards;
+}
+.Python{
+	background: #C04A82;
+	animation:Python 1s linear forwards;
+}
+.HTML{
+	background: #C04A82;
+	animation:HTML 1s linear forwards;
+}
+.ps{
+	background: #C04A82;
+	animation:ps 1s linear forwards;
+}
+.c span{
+	border:1px solid #e91e63;
+}
+.Python span{
+	border:1px solid #e91e63;
+}
+.HTML span{
+	border:1px solid #e91e63;
+}
+.ps span{
+	border:1px solid #e91e63;
+}
+@keyframes c{
+	100%{
+		width:86%;
+	}
+
+}
+@keyframes Python{
+	100%{
+		width:91%;
+	}
+
+}
+@keyframes HTML{
+	100%{
+		width:80%;
+	}
+
+}
+@keyframes ps{
+	100%{
+		width:70%;
+	}
+}
+#portfolio{
+	color: darkred;
+	height:800 px;
+	width: 1200px;
+}
+.cm1{
+	color: darkred;
+}
